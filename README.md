@@ -1,103 +1,82 @@
-# 🌟 Bun venit pe profilul meu de GitHub! 🌟  
-**Salut! Sunt Mocanu Bogdan**, un tânăr programator pasionat de dezvoltarea de jocuri și tehnologie. Îmi place să explorez idei creative și să le transform în proiecte interesante, fie că e vorba de jocuri, design grafic sau proiecte web. 🚀  
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mocanubogdan.mocanubogdan" />
 
----
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut!+👋;+Eu+sunt+Mocanu+Bogdan!;" />
+</h1>
 
-## 👨‍💻 Despre mine
+<h3 align="center">Un dezvoltator pasionat de jocuri și tehnologie din România 🇷🇴</h3>
 
-- 🎮 **Dezvoltator de jocuri mobile** cu experiență în **Unity**.  
-- 🛠️ **Designer creativ**, specializat în **Blender**, **Illustrator** și **Photoshop** pentru design și modelare 3D.  
-- 🌐 **Explorator web development** – începător în **backend**, dar dornic să învăț mai mult.  
-- 📅 **Proiectele mele** includ:
-  - 🕰️ **Chronos_Escape**: un joc de puzzle bazat pe călătorii în timp, cu nivele care testează logica și viteza.  
-  - 🚗 **Driving-Escape**: un joc de acțiune în care trebuie să scapi de urmărirea mașinilor inamice.  
-  - 🌐 Diverse site-uri create prin freelancing.  
+<br/>
 
----
+<div align="center">
+ 
+ 🎮 **Dezvoltator de jocuri** cu experiență în **Unity** și **Blender**.  
+ 
+ 🌱 Învăț în prezent **MongoDB, Node.js, AWS**.  
 
-## 🛠️ Tehnologii și Abilități  
+ 💬 Întreabă-mă despre **C#, Unity, Blender... sau orice [aici](https://github.com/mocanubogdan/mocanubogdan/issues)**!  
 
-### Limbaje de programare:
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>  
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>  
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>  
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>  
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>  
-</p>
+ ⚡ Fun fact: **Călătoria în timp este una dintre temele mele favorite pentru jocuri!**
 
-### Dezvoltare jocuri:
-<p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity"/>  
-  <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender"/>  
-</p>
+</div>
 
-### Design grafic:
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="Photoshop"/>  
-  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png" alt="Illustrator"/>  
-</p>
+<div align="center"> 
+  <a href="mailto:mocanubogdan199923@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/bogdan-mocanu-215000267/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-### Dezvoltare web (începător):
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>  
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>  
-</p>
+<hr/>
 
----
+<h2 align="center">⚒️ Limbaje, Framework-uri și Tool-uri ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=unity,blender,photoshop,illustrator,csharp,cpp,python,html,css,nodejs,mongodb" /><br>
+</div>
 
-## 🎮 Proiectele mele favorite  
+<br/>
+<hr/>
 
-### 🕰️ **Chronos_Escape**
-> Un joc captivant despre călătoria în timp, unde fiecare nivel îți testează abilitățile logice. Rezolvă puzzle-uri și navighează prin lumi diferite, toate legate de tema timpului!  
+<h2 align="center">📊 Statistici GitHub 📊</h2>
+<br/>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mocanubogdan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mocanubogdan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocanubogdan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
 
-### 🚗 **Driving-Escape**
-> Ești într-o cursă contracronometru pentru a scăpa de urmărire. Joc bazat pe acțiune și reflexe rapide.  
+<hr/>
 
-### 🌐 **Proiecte web freelancing**
-> Am colaborat cu clienți pentru a crea website-uri personalizate, inclusiv pagini de prezentare, landing pages și website-uri interactive simple.
+<h2 align="center">🎮 Proiectele mele 🎮</h2>
+<ul>
+    <li>🕰️ **Chronos_Escape**: Un joc captivant despre călătoria în timp, unde fiecare nivel testează abilitățile tale logice. Rezolvă puzzle-uri și explorează lumi legate de tema timpului!</li>
+    <li>🚗 **Driving-Escape**: Ești într-o cursă pentru a scăpa de urmărire! Joc bazat pe acțiune și reflexe rapide.</li>
+    <li>🌐 **Proiecte Web**: Website-uri create prin freelancing, inclusiv landing pages și aplicații simple interactive.</li>
+</ul>
 
----
+<hr/>
 
-## 🎯 Obiectivele mele  
+<div align="center">
+  <h2>🐍 Contribuțiile mele 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mocanubogdan/mocanubogdan/output/github-contribution-grid-snake.svg" />
+</div>
 
-- 👨‍💻 Să îmbunătățesc abilitățile în **backend** și să devin mai experimentat în dezvoltarea de aplicații complexe.  
-- 🕹️ Să public jocurile mele pe platforme populare, cum ar fi Google Play sau Itch.io.  
-- 🤝 Să colaborez cu alți dezvoltatori și designeri pentru a învăța din experiențele lor și pentru a crea proiecte noi.  
-- 🚀 Să continui să dezvolt idei creative și să împărtășesc ceea ce învăț cu comunitatea.  
+<hr/>
 
----
+<h2 align="center">✨ Susține munca mea ✨</h2>
+<div align="center">
+  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
+    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
+</div>
 
-## 🌐 Contact  
+<br/>
 
-- 📧 Email: [mocanubogdan199923@gmail.com](mailto:mocanubogdan199923@gmail.com)  
-- 📱 LinkedIn: [Profilul meu LinkedIn](https://www.linkedin.com/in/bogdan-mocanu-215000267/)  
-- 🎮 Itch.io: [Jocurile mele](#) (în lucru)
+<hr/>
 
----
-
-## 📊 Statistici GitHub  
-
-![Mocanu Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mocanubogdan&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mocanubogdan&layout=compact&theme=radical)  
-
-### Repartizarea limbajelor utilizate în proiectele mele:
-![Repos Language Breakdown](https://github-readme-stats.vercel.app/api/pin/?username=mocanubogdan&repo=Chronos_Escape&theme=radical)
-![Repos Language Breakdown](https://github-readme-stats.vercel.app/api/pin/?username=mocanubogdan&repo=Driving-Escape&theme=radical)
-
----
-
-## 🛠️ Instrumente preferate  
-
-<p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity"/>  
-  <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender"/>  
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>  
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>  
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>  
-</p>
-
----
-
-🌟 **Mulțumesc că ai vizitat profilul meu!** Dacă îți place ceea ce fac sau ai idei pentru colaborare, nu ezita să mă contactezi! Să creăm împreună lucruri uimitoare! 💡✨  
+<p align="center">Mulțumesc pentru vizită! Sper să te inspire proiectele mele și dacă dorești să colaborăm, contactează-mă! 🚀</p>

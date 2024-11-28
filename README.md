@@ -5,9 +5,9 @@
 
 ## 👨‍💻 Despre mine
 
-- 🎮 **Dezvoltator de jocuri mobile** cu experiență în **Unity**.
-- 🛠️ **Designer creativ**, specializat în **Blender**, **Illustrator** și **Photoshop** pentru design și modelare 3D.
-- 🌐 **Explorator web development** – începător în **backend**, dar dornic să învăț mai mult.
+- 🎮 **Dezvoltator de jocuri mobile** cu experiență în **Unity**.  
+- 🛠️ **Designer creativ**, specializat în **Blender**, **Illustrator** și **Photoshop** pentru design și modelare 3D.  
+- 🌐 **Explorator web development** – începător în **backend**, dar dornic să învăț mai mult.  
 - 📅 **Proiectele mele** includ:
   - 🕰️ **Chronos_Escape**: un joc de puzzle bazat pe călătorii în timp, cu nivele care testează logica și viteza.  
   - 🚗 **Driving-Escape**: un joc de acțiune în care trebuie să scapi de urmărirea mașinilor inamice.  
@@ -15,21 +15,34 @@
 
 ---
 
-## 🛠️ Abilități și tehnologii  
+## 🛠️ Tehnologii și Abilități  
 
 ### Limbaje de programare:
-- ⚡ **C#**, **C++**, **Python**
-- 📜 **HTML5**, **CSS3**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>  
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>  
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>  
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>  
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>  
+</p>
 
 ### Dezvoltare jocuri:
-- 🕹️ **Unity** (creare și scripting de jocuri 2D/3D)
-- 🖌️ **Blender** (modelare și animație)
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity"/>  
+  <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender"/>  
+</p>
 
 ### Design grafic:
-- 🎨 **Adobe Photoshop**, **Adobe Illustrator**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="Photoshop"/>  
+  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png" alt="Illustrator"/>  
+</p>
 
 ### Dezvoltare web (începător):
-- 🌟 În explorare: **Node.js**, **MongoDB**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>  
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>  
+</p>
 
 ---
 
@@ -55,10 +68,10 @@
 
 ---
 
-## 🌈 Contact  
+## 🌐 Contact  
 
 - 📧 Email: [mocanubogdan199923@gmail.com](mailto:mocanubogdan199923@gmail.com)  
-- 📱 LinkedIn: [Profilul meu LinkedIn](#)  
+- 📱 LinkedIn: [Profilul meu LinkedIn](https://www.linkedin.com/in/bogdan-mocanu-215000267/)  
 - 🎮 Itch.io: [Jocurile mele](#) (în lucru)
 
 ---
@@ -69,13 +82,21 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mocanubogdan&layout=compact&theme=radical)  
 
+### Repartizarea limbajelor utilizate în proiectele mele:
+![Repos Language Breakdown](https://github-readme-stats.vercel.app/api/pin/?username=mocanubogdan&repo=Chronos_Escape&theme=radical)
+![Repos Language Breakdown](https://github-readme-stats.vercel.app/api/pin/?username=mocanubogdan&repo=Driving-Escape&theme=radical)
+
 ---
 
 ## 🛠️ Instrumente preferate  
 
-- 🖌️ **Unity**, **Blender**, **Adobe Photoshop**  
-- 🕹️ **C#**, **Python**, **HTML/CSS**  
-- 🌐 În explorare: **MongoDB**, **Node.js**  
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity"/>  
+  <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender"/>  
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>  
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>  
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>  
+</p>
 
 ---
 
